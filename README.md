@@ -92,7 +92,7 @@ A rádió ezután közvetlenül a számítógépedről fog zenét streamelni.
 
 A legfrissebb verzió innen tölthető le:
 
-⬇ **[Letöltés – myRadio Music Server](https://github.com/gidano/myRadio/releases/download/1.1/myRadio_Music_Server_v1.1.zip)**
+[myRadio Music Server](https://github.com/gidano/myRadio-Music-Server/releases/tag/1.1)
 
 ---
 
