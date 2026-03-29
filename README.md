@@ -127,6 +127,15 @@ A fájl URL-ek automatikusan kódolásra kerülnek, így a speciális karakterek
 
 gidano
 
+## 📜 License
+
+Ez a projekt a CC BY-NC 4.0 licenc alapján áll rendelkezésre, a szerző megjelölésének kötelező feltételével.
+
+A projektet nem kereskedelmi célokra szabadon felhasználhatja és módosíthatja,  
+de köteles látható módon megjelölni a szerzőt, és hivatkozást elhelyezni az eredeti tárolóra.
+
+A részletes feltételeket a [LICENSE](LICENSE) fájlban találja.
+
 ---
 
 ## EN ##
@@ -259,3 +268,12 @@ File URLs are automatically encoded, so filenames with special characters are su
 # Author
 
 gidano
+
+## 📜 License
+
+This project is licensed under CC BY-NC 4.0 with required attribution.
+
+You are free to use and modify this project for non-commercial purposes,  
+but you must give visible credit and link to the original repository.
+
+See the [LICENSE](LICENSE) file for full details.
