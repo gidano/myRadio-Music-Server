@@ -1,5 +1,7 @@
 # myRadio Music Server HU-EN
 
+<img src="https://github.com/gidano/myRadio-Music-Server/blob/main/myRadio-Music-Server_logo.png" alt="logo">
+
 <p align="center">
   <!-- 
   -->
