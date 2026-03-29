@@ -1,4 +1,4 @@
-# myRadio Music Server
+# myRadio Music Server HU-EN
 
 <p align="center">
   <!-- 
